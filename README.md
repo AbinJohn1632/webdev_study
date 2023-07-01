@@ -1,2 +1,2 @@
 # webdev_study
-leaning
+learning
