@@ -1,2 +1,2 @@
 # webdev_study
-learning
+this is a beginner level html and css project
